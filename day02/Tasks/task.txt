@@ -1,0 +1,6 @@
+first task 
+i have two div when i enter valeo in input field then press on add item buttom the value in this input will added in the first div with unorder list, then when i fire any item in this list then must press on move buttom this item i fired it will move from the first div two the second div with unorder list.
+
+Second Task
+
+i have fack data api you will show this data in table using ajax then using fetch
