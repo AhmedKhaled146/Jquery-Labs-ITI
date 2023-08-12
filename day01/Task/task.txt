@@ -1,0 +1,1 @@
+i have one div and inside it there is facebook image i want to move it from right to left and from left to right when i press animate button and if i press stop that stop the animation using animation Jquery.
